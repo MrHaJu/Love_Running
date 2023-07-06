@@ -262,11 +262,11 @@ footer {
     margin: 150px 10% 0 0;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
-    max-width: 400px;
+    max-width: 430px;
     position: absolute;
     left: 10%;
     padding: 30px;
-    
+
 }
 .signup-form > h2 {
     color: #fafafa;
